@@ -1,0 +1,13 @@
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+D:\Users\siddharth.bhatore\Leoforce\AssignmentCSharp\csharpexercises\10ct\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache
